@@ -139,7 +139,7 @@ fun placeMonkeyInCage(cageList: MutableList<String>, cageNum: Int, name: String)
 fun listAllCages(cageList: List<String>) {
     println("CAGES")
 
-    check(false)    // REPLACE THIS WITH YOUR CODE!
+    println(cageList)  // REPLACE THIS WITH YOUR CODE!
 }
 
 
